@@ -1,0 +1,52 @@
+body {
+    background-image: url("img/background.jpg");
+}
+
+.container {
+    background-color: white;
+    padding-bottom: 50px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+table {
+    border: solid black;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+
+td {
+    border: solid black;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    color: darkred;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: DodgerBlue;
+    text-decoration: underline;
+}
+
+h4 {
+    text-align: justify;
+}
